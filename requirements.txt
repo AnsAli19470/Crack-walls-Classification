@@ -1,0 +1,5 @@
+# Crack vs non-crack image classifier (Streamlit UI + Keras model)
+streamlit>=1.28.0
+tensorflow>=2.15.0
+pillow>=10.0.0
+numpy>=1.26.0,<3
